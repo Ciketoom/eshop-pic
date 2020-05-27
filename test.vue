@@ -260,9 +260,11 @@
 
                 });
             },
+	    //地址窗口关闭
             infoWindowClose () {
                 this.show = false
             },
+	    //地址窗口打开
             infoWindowOpen () {
                 this.show = true
             },
